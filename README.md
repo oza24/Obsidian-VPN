@@ -54,13 +54,24 @@ Internet
 
 ## 📸 Screenshots
 
-> Add your app UI screenshots here
+### 🔐 Login Screen
+![Login](Screenshots/login.png)
 
-```
-Login Screen
-VPN Connection Dashboard
-Status (Connected / Disconnected)
-```
+### 🏠 Home Screen
+![Home](Screenshots/Home_Screen.png)
+
+### 📊 Activity Screen
+![Activity](Screenshots/Activity_Screen.png)
+
+### 🌐 Server Selection Screen
+![Server](Screenshots/server_screen.png)
+
+### 🔌 Connection Screen
+![Connection](Screenshots/Connection_screen.png)
+
+### 👤 Profile Screen
+![Profile](Screenshots/Profile_screen.png)
+
 
 ---
 
